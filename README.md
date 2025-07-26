@@ -73,10 +73,6 @@ The interactive Power BI dashboard allows users to:
 ## How to View the Dashboard
 
 1.  **Download Power BI Desktop:** If you don't have it, download and install Power BI Desktop from Microsoft's official website.
-2.  **Clone this Repository:**
-    ```bash
-    git clone [https://github.com/RaghunathSinghOfficial/Elevate_Labs_DA_Internship_Task3_Sales_Dasboard.git](https://github.com/RaghunathSinghOfficial/Elevate_Labs_DA_Internship_Task3_Sales_Dasboard.git)
-    ```
-3.  **Open the .pbix file:** Navigate to the cloned folder and open `Happy Street 2023 Performance Analysis Power BI Dashboard.pbix` with Power BI Desktop.
+2.  **Open the .pbix file:** Navigate and open `Happy Street 2023 Performance Analysis Power BI Dashboard.pbix` with Power BI Desktop.
 
 ---
